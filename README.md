@@ -12,5 +12,4 @@
 |  |  |  |
 |--|--|--|
 |No| **Tugas | Detail |
-| 1 | Pertemuan 1 p5.js | Membuat shape di p5.js |
-| 2 | Pertemuan 2 p5.js | Praktek di p5.js |
+| 1 | Pertemuan 2 p5.js | Praktek di p5.js |
